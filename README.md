@@ -77,14 +77,18 @@
 ## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/avinav2401">
-    <img src="https://lohit-readme-stats.vercel.app/api?username=avinav2401&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="Avinav's GitHub Stats" width="48%" />
-  </a>
+  <a href="https://github.com/avinav2401">
+    <img src="https://lohit-readme-stats.vercel.app/api?username=avinav2401&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="Avinav's GitHub Stats" width="48%" />
+  </a>
 
-<a href="https://github.com/avinav2401">
+  <a href="https://github.com/avinav2401">
     <img src="https://streak-stats.demolab.com?user=avinav2401&theme=tokyonight&hide_border=true&background=0D1117&ring=20B2AA&currStreakLabel=20B2AA" alt="Avinav's Streak" />
   </a>
 </div>
+
+<br/>
+
+
 <!-- GitHub Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinav2401&bg_color=0b1020&line=6ea8ff&point=9be7ff&area=true&theme=react-dark" 
