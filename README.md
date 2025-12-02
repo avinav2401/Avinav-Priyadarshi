@@ -1,13 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Avinav%20Priyadarshi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=software+Developer;Web+Developer;UI%2FUX+Designer&font=Fira+Code&center=false&width=100&height=50&color=32CD32&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=software+Developer;Web+Developer;UI%2FUX+Designer&font=Fira+Code&center=false&width=500&height=50&color=32CD32&vCenter=true&pause=1000&size=28" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmliMm9nOHJsZXY5Nzg1bjN1cnE0ejZ0dTZ4eWFlcWo2cGFnajAxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2C3JREGrp2cEa9EAb9/giphy.gif" width="100%"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmliMm9nOHJsZXY5Nzg1bjN1cnE0ejZ0dTZ4eWFlcWo2cGFnajAxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2C3JREGrp2cEa9EAb9/giphy.gif" width="80%"/>
 </div>
 
 <br/>
