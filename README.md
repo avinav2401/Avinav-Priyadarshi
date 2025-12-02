@@ -33,7 +33,7 @@
 <a href="YOUR_INSTAGRAM_URL_HERE" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-20B2AA?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="avinavpriyadarshi@gmail.com" target="_blank">
+<a href="mailto:avinavpriyadarshi@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/GMAIL-20B2AA?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
