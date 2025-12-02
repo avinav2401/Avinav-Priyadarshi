@@ -81,16 +81,23 @@
     <img src="https://lohit-readme-stats.vercel.app/api?username=avinav2401&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="Avinav's GitHub Stats" width="48%" />
   </a>
 
-<a href="https://github.com/avinav2401">
-    <img src="https://streak-stats.demolab.com?user=avinav2401&theme=tokyonight&hide_border=true&background=0D1117&ring=20B2AA&currStreakLabel=20B2AA" alt="Avinav's Streak" />
+  <a href="https://github.com/avinav2401">
+    <img src="https://streak-stats.demolab.com?user=avinav2401&theme=tokyonight&hide_border=true&background=0D1117&ring=32CD32&currStreakLabel=32CD32" alt="Avinav's Streak" width="48%" />
   </a>
 </div>
-<!-- GitHub Activity Graph -->
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinav2401&bg_color=0b1020&line=6ea8ff&point=9be7ff&area=true&theme=react-dark" 
-  alt="Activity Graph" 
-  style="max-width:1100px; width:100%; border-radius:8px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinav2401&bg_color=0D1117&color=32CD32&line=32CD32&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <a href="https://github.com/avinav2401/avinav2401/generate">
+    <img src="https://github.com/avinav2401/avinav2401/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  </a>
+</div>
 
 <hr/>
