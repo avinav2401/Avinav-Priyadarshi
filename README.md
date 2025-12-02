@@ -1,7 +1,7 @@
 # Hi, I'm Avinav :)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer;Web+Developer;UI%2FUX+Designer&font=Fira+Code&center=false&width=500&height=50&color=20B2AA&vCenter=true&pause=1000&size=28" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer;Web+Developer;UI%2FUX+Designer&font=Fira+Code&center=false&width=500&height=50&color=32CD32&vCenter=true&pause=1000&size=28" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,16 +24,16 @@
 <div align="left">
 
 <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-20B2AA?style=for-the-badge&logo=googleearth&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-32CD32?style=for-the-badge&logo=googleearth&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-20B2AA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-32CD32?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="YOUR_INSTAGRAM_URL_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-20B2AA?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-32CD32?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/GMAIL-20B2AA?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/GMAIL-32CD32?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
@@ -82,7 +82,7 @@
   </a>
 
   <a href="https://github.com/avinav2401">
-    <img src="https://streak-stats.demolab.com/?user=avinav2401&theme=tokyonight&hide_border=true&background=0D1117&ring=20B2AA&currStreakLabel=20B2AA" alt="Avinav's Streak" width="48%" />
+    <img src="https://streak-stats.demolab.com/?user=avinav2401&theme=tokyonight&hide_border=true&background=0D1117&ring=32CD32&currStreakLabel=32CD32" alt="Avinav's Streak" width="48%" />
   </a>
 </div>
 
