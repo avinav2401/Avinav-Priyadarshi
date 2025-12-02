@@ -96,6 +96,7 @@
   alt="Activity Graph" 
   style="max-width:1100px; width:100%; border-radius:8px" />
 </div>
+
 <br/>
 
 <div align="center">
