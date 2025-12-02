@@ -82,7 +82,7 @@
   </a>
 
   <a href="https://github.com/avinav2401">
-    <img src="https://streak-stats.demolab.com?user=avinav2401&theme=tokyonight&hide_border=true&background=0D1117&ring=20B2AA&currStreakLabel=20B2AA" alt="Avinav's Streak" />
+    <img src="https://streak-stats.demolab.com?user=avinav2401&theme=tokyonight&hide_border=true&background=0D1117&ring=20B2AA&currStreakLabel=20B2AA" alt="Avinav's Streak"width="40%" />
   </a>
 </div>
 
